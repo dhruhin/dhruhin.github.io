@@ -326,34 +326,31 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .java {
-  	width: 70%;
+  	width: 75%;
 }
 .cplusplus {
-  	width: 30%;
+  	width: 65%;
 }
 .regularc {
-  	width: 20%;
-}
-.objectivec {
   	width: 60%;
 }
-.javascript {
-  	width: 70%;
+.objectivec {
+  	width: 50%;
 }
-.jquery {
+.javascript {
   	width: 60%;
 }
 .php {
-  	width: 75%;
+  	width: 55%;
 }
 .sql {
-  	width: 60%;
+  	width: 20%;
 }
 .ruby {
-  	width: 15%;
+  	width: 10%;
 }
 .python {
-  	width: 15%;
+  	width: 30%;
 }
 
 @-moz-keyframes java {
@@ -662,7 +659,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -686,7 +683,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -1035,4 +1032,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-
